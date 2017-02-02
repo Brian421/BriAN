@@ -43,7 +43,7 @@ nav{
       nav ul li a{
         display: block; 
         padding: 30px 20px;
-        color: #222; 
+        color: #C0C0C0; 
         font-size: .9em;
         letter-spacing: 1px;
         text-decoration: none;
@@ -51,7 +51,7 @@ nav{
       }
       nav ul ul{
         display: none;
-        background: #FFFFFF;
+        background: #C0C0C0;
         position: absolute; 
         top: 100%;
         box-shadow: -3px 3px 10px -2px rgba(0,0,0,.1);
