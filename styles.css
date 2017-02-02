@@ -14,7 +14,7 @@ nav{
   top: 0;
   left: 0;
   width: 100%;
-  background:#C0C0C0;)
+  background:#FFFFFF;)
   box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
   border: 2px solid rgba(0,0,0,.1);
 }
@@ -43,7 +43,7 @@ nav{
       nav ul li a{
         display: block; 
         padding: 30px 20px;
-        color: #C0C0C0; 
+        color: #FFFFFF; 
         font-size: .9em;
         letter-spacing: 1px;
         text-decoration: none;
@@ -51,7 +51,7 @@ nav{
       }
       nav ul ul{
         display: none;
-        background: #C0C0C0;
+        background: #FFFFFF;
         position: absolute; 
         top: 100%;
         box-shadow: -3px 3px 10px -2px rgba(0,0,0,.1);
