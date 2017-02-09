@@ -51,7 +51,7 @@ nav{
       }
       nav ul ul{
         display: none;
-        background: #FFFFFF;
+        background:#C0C0C0;
         position: absolute; 
         top: 100%;
         box-shadow: -3px 3px 10px -2px rgba(0,0,0,.1);
